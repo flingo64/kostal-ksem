@@ -14,8 +14,7 @@ https://www.kostal-solar-electric.com/de-de/download/-/media/document-library-fo
 
 
 
-Tested  with Python version 3.5, 3.6 and 3.8.
-
+Tested  with Python version 3.5, 3.6 3.8 and 3.10.
 
 
 
@@ -28,7 +27,8 @@ Features
 Tested with 
 ~~~~~~~~~~~~~~~~
 
-* Windows
+* Linux
++ pymodbus 3.6.6
 
 
 
